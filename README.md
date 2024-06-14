@@ -1,5 +1,5 @@
 <h2> PyTorch_DCGAN_ULA </h2><br>
-DCGAN network for my cat 'Ula'<br>
+DCGAN network for my cat 'Ula'
 
 Technologies: PyTorch, Pillow, matplotlib<br>
 
