@@ -1,4 +1,4 @@
-<h2> PyTorch_DCGAN_ULA </h2><br>
+<h2> DCGAN Network - Generating Images </h2><br>
 DCGAN network for my cat 'Ula'<br>
 
 Technologies: PyTorch, Pillow, matplotlib<br>
