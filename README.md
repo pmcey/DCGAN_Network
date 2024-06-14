@@ -1,5 +1,5 @@
 <h2> DCGAN Network - Generating Images </h2><br>
-DCGAN network for my cat 'Ula'<br>
+DCGAN network for my cat 'Ula'<br><br>
 
 Technologies: PyTorch, Pillow, matplotlib<br>
 
